@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class MyClass {
+public class TaxiApplication {
     static List<Data> bookedDetails = new ArrayList<Data>();
     static List<String> taxiDetails = new ArrayList<String>();
     static Map<String,Integer> pointCode = new HashMap<>();
