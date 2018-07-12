@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class MyClass{
+public class WordSorting{
     public static void main(String... args)throws IOException{
         BufferedReader input = new BufferedReader(new InputStreamReader(System.in));
         String str = "q wer r fff kkkk fdfdfdsf jkjj fksdjfkdjsfjsdf ls.";
