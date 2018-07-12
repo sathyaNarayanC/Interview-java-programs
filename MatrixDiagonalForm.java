@@ -1,7 +1,7 @@
 public class MatrixDiagonalForm {
     public static void main(String args[]) {
         int i = 0, j = 0 ; int k;
-        int mat[][] = {{1,2,3,4},{5,6,7,8},{9,10,11,12},{13,14,15,16},{17,18,19,20}};
+        int mat[][] = {{1,2,3,4},{5,6,7,8},{9,10,11,12},{13,14,15,16}};
         while(i <= 3){
              j = 0;
              k= i;
