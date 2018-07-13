@@ -128,6 +128,6 @@ Sample I/O:
 
 Input: q wer r fff kkkk fdfdfdsf jkjj fksdjfkdjsfjsdf ls.
 
-output: Q r ls wer fff kkkk jkjj fdfdfdsf fksdjfkdjsfjsdf.
+output: Q r ls wer fff kkkk jkjj fdfdfdsf fksdjfkdjsfjsdf
 
 -------------------------------------------------------------------------------------------------------------------
